@@ -1,0 +1,8 @@
+table.table-payment {
+    width: 70%;
+    margin: auto;
+}
+table.table-payment td {
+    padding: 10px;
+    border: 1px solid #ff6200;
+}
